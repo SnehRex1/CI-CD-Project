@@ -1,2 +1,19 @@
-# CI-CD-Project
-Node to-do app Ci/CD project using Jenkins, AWS EC2 , GitHub and Docker
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
